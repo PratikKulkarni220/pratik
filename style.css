@@ -1,0 +1,40 @@
+
+.heading
+{
+font-size: 40px;
+width: 100%;
+height: 9%;
+margin: 5px;
+color: whitesmoke;
+float: left;
+}
+
+.status
+{
+font-size: 22px;
+width: 17%;
+
+}
+.main_div{
+    border-width: 5px;
+    border-radius: 0px;
+    border-style: ridge;
+    border-color: gold;
+    width: 100%;
+    height: 100%;
+margin-top: 9px;
+}
+
+canvas{
+    border-width: 5px;
+    border-radius: 0px;
+    border-style: ridge;
+    border-color: gold;
+}
+
+.button{
+    margin-top: 56.565656565656565656px;
+    width: 12%;
+}
+
+
